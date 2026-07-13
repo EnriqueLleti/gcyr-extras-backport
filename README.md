@@ -13,9 +13,13 @@ What changed?
 Compared to the original project, this version has been adapted to work with:
 
 Minecraft 1.20.1
+
 Forge
+
 GregTech CEu 7.4.1
+
 Gregicality Rocketry 0.2.7
+
 
 The original project targets newer versions of GregTech CEu and Gregicality Rocketry.
 
