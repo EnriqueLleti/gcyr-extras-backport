@@ -265,7 +265,7 @@ public class GcyrExtrasGTAddon implements IGTAddon {
                 .EUt(ORBITAL_MINER_EUT);
 
         for (Material output : outputs) {
-            builder.chancedOutput(orePrefix, output, ORBITAL_MINER_CHANCE, 0);
+                builder.chancedOutput(orePrefix, output, ORBITAL_MINER_CHANCE, 0);
         }
 
         builder.save(provider);
