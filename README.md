@@ -3,6 +3,7 @@ GCYR Extras (Backport for GregTech CEu 7.4.1)
 This repository contains a backport of GCYR Extras, originally developed by the GCYR Extras contributors.
 
 Original project: https://github.com/jmoiron/gcyr-extras?tab=readme-ov-file
+
 Original project on curseforge: https://www.curseforge.com/minecraft/mc-mods/gcyr-extras
 
 This project is released in accordance with the original license (GPL), and all credit for the original implementation belongs to its original authors. This repository only contains the modifications required to make the mod compatible with older versions of its dependencies.
