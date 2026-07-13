@@ -8,7 +8,6 @@ import com.gregtechceu.gtceu.client.util.BloomUtils;
 import com.mojang.blaze3d.vertex.PoseStack;
 import com.mojang.blaze3d.vertex.VertexConsumer;
 import com.mojang.serialization.Codec;
-import net.minecraft.client.Minecraft;
 import net.minecraft.client.renderer.MultiBufferSource;
 import net.minecraft.core.BlockPos;
 import net.minecraft.util.Mth;
@@ -22,7 +21,6 @@ import net.jmoiron.gcyrextras.client.util.GcyrExtrasRenderBufferHelper.BeamColor
 import net.jmoiron.gcyrextras.client.util.GcyrExtrasRenderBufferHelper.BeamProfile;
 import net.jmoiron.gcyrextras.common.machine.multiblock.electric.OrbitalMiningLaserMachine;
 
-import static net.minecraft.util.FastColor.ARGB32.alpha;
 import static net.minecraft.util.FastColor.ARGB32.blue;
 import static net.minecraft.util.FastColor.ARGB32.color;
 import static net.minecraft.util.FastColor.ARGB32.green;

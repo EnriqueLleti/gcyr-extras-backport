@@ -25,6 +25,7 @@ public class GcyrExtras {
         return ResourceLocation.fromNamespaceAndPath(MOD_ID, path);
     }
 
+    @SuppressWarnings("removal")
     public GcyrExtras() {
         var bus = FMLJavaModLoadingContext.get().getModEventBus();
         GcyrExtrasBlocks.BLOCKS.register(bus);
